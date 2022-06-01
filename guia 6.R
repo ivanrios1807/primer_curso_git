@@ -156,6 +156,6 @@ min(datos5$X15)
 
 
 #adasd
-
+# .git ignore 
 
 
