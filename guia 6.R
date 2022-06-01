@@ -155,7 +155,7 @@ min(datos5$X15)
 # para describir el centro de los datos.
 
 
-
+#adasd
 
 
 
